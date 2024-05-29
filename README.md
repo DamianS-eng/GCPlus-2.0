@@ -1,6 +1,8 @@
 # GC+ - What is it?
 GC+ is a custom board that acts as a Gamecube controller with an upgradable firmware and custom features.
-Video reference: https://www.youtube.com/watch?v=MTG2iqWmXx4
+
+Video reference: 
+   - [Original is busted. I owe one later.](https://www.youtube.com/watch?v=MTG2iqWmXx4]
 
 # What's new in version 2.0?
 * Firmware completely written in C
@@ -30,10 +32,8 @@ Markup : ![picture alt](header_pinout.png)
 Flash GC+2.0.hex with MPLAB IPE (http://microchip.wikidot.com/ipe:installation) and a PICKIT v3 (or above).
 Use the above pinout to wire up GC+2.0 to your PICKIT.
 
-# Contacts
-Please if you have any questions or if you want to implement new features reach out to me (Aurelio) on BitBuilt.net forums or our Discord server at https://discordapp.com/invite/uwT2AC.
-
-If you use GC+2.0 and/or integrate it in your own project please do not forget to give credits where due and link to this repository.
+# Where to buy
+[4layertech](https://4layertech.com/products/gc-2) seems to sell furnished circuit boards with this firmware.
 
 # License
 
